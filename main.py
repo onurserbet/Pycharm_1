@@ -18,3 +18,4 @@ print("hi my name is")
 
 while true
     print("3x3")
+end
